@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+title: XeonAJ
+description: From Innovation, To Development, To Actualization
+show_downloads: false
+logo: "logos/DARK.png"
+search: true
